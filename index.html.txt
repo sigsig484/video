@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Trang Mẫu HTML</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f4f4f4;
+      margin: 0;
+      padding: 0;
+    }
+    header, footer {
+      background: #333;
+      color: white;
+      text-align: center;
+      padding: 1rem;
+    }
+    main {
+      padding: 2rem;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Chào mừng đến với trang HTML mẫu</h1>
+  </header>
+
+  <main>
+    <h2>Nội dung chính</h2>
+    <p>Đây là phần nội dung bạn có thể chỉnh sửa theo ý muốn.</p>
+    <button onclick="alert('Xin chào Đại Ca Tisig!')">Bấm vào đây</button>
+  </main>
+
+  <footer>
+    <p>© 2025 - Trang mẫu bởi Đại Ca Tisig</p>
+  </footer>
+
+</body>
+</html>
